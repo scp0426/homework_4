@@ -1,0 +1,27 @@
+code {
+	background-color: #C0C0C0;
+	border: .5px solid black;
+	padding: 1px;
+}
+
+#notification {
+	background-color: #C0C0C0;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.message {
+	background-color: #FFF380;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.error {
+	background-color: #FBBBB9;
+	border-color: red;
+}
+
+.success {
+	background-color: #C3FDB8;
+	border-color: green;
+}

@@ -1,0 +1,15 @@
+em {
+	font-weight: bold;
+}
+
+body {
+	color: #808080;
+}
+
+blockquote {
+	font-style: italic;
+	
+
+blockquote em {
+	font-style: normal;
+}
